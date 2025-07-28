@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/the-world-around-you/","created":"2025-05-26T19:05:06.597-04:00","updated":"2025-07-28T16:08:52.855-04:00"}
+{"dg-publish":true,"permalink":"/contents/the-world-around-you/","created":"2025-05-26T19:05:06.597-04:00","updated":"2025-07-28T16:14:18.998-04:00"}
 ---
 
 
@@ -76,9 +76,9 @@ Prosperity doesn't mean peace. Bandits still roam the roads, trolls still steal 
 | **C**       | Mild risk. Low-level combat likely, but manageable by seasoned groups.                                        | Trapping a rare beast, Harvesting a poisonous bloom deep in the woods. |
 | **D**       | Minor danger. Some physical effort or low-threat encounters possible.                                         | Standing night watch for coyotes, Logging in goblin-infested forests.  |
 | **E**       | Nearly no danger. Basic labor or errands. A good start for greenhorns.                                        | Gardening for an elderly man, Finding a lost kitten in town.           |
-![Pasted image 20250728160852.png](/img/user/Pics/Pasted%20image%2020250728160852.png)
----
 
+---
+![Pasted image 20250728161417.png](/img/user/Pics/Pasted%20image%2020250728161417.png)
 The Guild acts not only as a quest board, but a lively social hub. Adventurers can meet, form parties, brag about their victories, and celebrate (or mourn) completed jobs. The Guild does, of course, take a small cut of all job payments—gotta keep the lights on.
 
 This is where many begin their journey. Who knows? Maybe someday, they’ll call **you** a Legend.
