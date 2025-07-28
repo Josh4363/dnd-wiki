@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/the-world-around-you/","created":"2025-05-26T19:05:06.597-04:00","updated":"2025-07-28T06:14:19.766-04:00"}
+{"dg-publish":true,"permalink":"/contents/the-world-around-you/","created":"2025-05-26T19:05:06.597-04:00","updated":"2025-07-28T16:08:52.855-04:00"}
 ---
 
 
@@ -43,6 +43,7 @@ darkmode: false ### marker
 The year is 44 of the Second Great Age, the continent of Pyke is experiencing a rare but welcome era of prosperity. The land has been riddled with conflict the entire first great age, and only continued for the first 808 years of the Second Age. The lands, diverse and tumultuous as they are, for the time being, remained rather peaceful, and has done so for quite some time. Still licking their wounds after suffering the Long Night, the major Kingdoms have all refrained from warring and bringing Chaos to the land, and instead have focused on growth and expansion. That said, there is still plenty of adventure to be had.
 
 Travelling is manageable on Pyke there are various teleport stones, called Waynodes. Though common Waynodes are only permitted to go to certain places and only places the user has visited before.
+![Spike.jpg](/img/user/Pics/Spike.jpg)
 # Pyke & Her Provinces
 
 Pyke has 6 major provinces with their own unique features and areas. There are a plethora of encampments for Mortals all over the landmass, from settlements, villages, towns, and bustling Cities. 
@@ -75,7 +76,7 @@ Prosperity doesn't mean peace. Bandits still roam the roads, trolls still steal 
 | **C**       | Mild risk. Low-level combat likely, but manageable by seasoned groups.                                        | Trapping a rare beast, Harvesting a poisonous bloom deep in the woods. |
 | **D**       | Minor danger. Some physical effort or low-threat encounters possible.                                         | Standing night watch for coyotes, Logging in goblin-infested forests.  |
 | **E**       | Nearly no danger. Basic labor or errands. A good start for greenhorns.                                        | Gardening for an elderly man, Finding a lost kitten in town.           |
-
+![Pasted image 20250728160852.png](/img/user/Pics/Pasted%20image%2020250728160852.png)
 ---
 
 The Guild acts not only as a quest board, but a lively social hub. Adventurers can meet, form parties, brag about their victories, and celebrate (or mourn) completed jobs. The Guild does, of course, take a small cut of all job payments—gotta keep the lights on.
@@ -102,7 +103,7 @@ Mortal races are often classified into long life races and short ones. Each race
 
 In the F.G.A racism and discrimination against Giantfolk and Giant-related people were prevalent. Giants, Goliaths, Ogres, Trolls, Orcs, Hobs and Goblins were seen as lesser than and barbaric by the other races. All green skinned brutes as the mortals like to call them They seem to value strength overall more than any other trait. Now while other species, like Dragonborns value militaristic tactics overall, the Giantfolk were noticeably more savage.
 
-Now this age you will see some orcs, half-orcs and goliaths being assimilated in common society, but the others are still shunned and reviled for the most part. Now this distinction is not without reason. For the most part orcs, goliaths, and half orcs have made effort through trading and honoring the common rules with the rest of Pyke's inhabitants. The others though still for the most part are violent towards mortals on sight. This was made prevalent with [[Contents/Commonly Known History#^82e493\|The Long Night]]. The TLDR is vampires did not like the taste of some Giantfolk (and avoided conflict with Giants altogether) so they hired them as lackeys to be guards and hunt down the "cattle". Often beating down and torturing those under them the scars of the Long Night still echo to this day and mortals are not willing to relinquish the feud. No love is lost on either side. Also one more noticeable thing...
+Now this age you will see some orcs, half-orcs and goliaths being assimilated in common society, but the others are still shunned and reviled for the most part. Now this distinction is not without reason. For the most part orcs, goliaths, and half orcs have made effort through trading and honoring the common rules with the rest of Pyke's inhabitants. The others though still for the most part are violent towards mortals on sight. This was made prevalent with [[Contents/The Long Night of Tears\|The Long Night]]. The TLDR is vampires did not like the taste of some Giantfolk (and avoided conflict with Giants altogether) so they hired them as lackeys to be guards and hunt down the "cattle". Often beating down and torturing those under them the scars of the Long Night still echo to this day and mortals are not willing to relinquish the feud. No love is lost on either side. Also one more noticeable thing...
 
 Giants actively hunt and eat all mortals. Before the Long Night, Giants had a point in time where they would eat mortals. Pick up their houses and shake them out of there, giants are not to be trifled with. Also, what separates them from other the other shunned Giantfolk is their intelligence. They have the potential and the social acumen to join society, they just choose not to and prefer to keep us mortals on their diet. Times have changed and mortal might has grown, to where most giants know not to frequent too close to mortal strongholds, and they typically frequent the [[Pyke Provinces/Badland Provinces\|Badland Provinces]], but it is not odd to hear the odd tale of farmers and their families disappearing while finding their stead ripped out from the ground.
 
