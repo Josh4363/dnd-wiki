@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dieties-and-pantheons/jolk-the-wretch/"}
+{"dg-publish":true,"permalink":"/dieties-and-pantheons/jolk-the-wretch/","created":"2025-05-31T01:22:45.815-04:00","updated":"2025-07-28T06:17:17.338-04:00"}
 ---
 
 ![Pasted image 20250531012251.png](/img/user/Pics/Pasted%20image%2020250531012251.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dieties-and-pantheons/rend-lord-of-the-dying/"}
+{"dg-publish":true,"permalink":"/dieties-and-pantheons/rend-lord-of-the-dying/","created":"2025-05-29T19:20:41.822-04:00","updated":"2025-07-28T06:17:10.931-04:00"}
 ---
 
 ![Pasted image 20250529192532.png](/img/user/Pics/Pasted%20image%2020250529192532.png)

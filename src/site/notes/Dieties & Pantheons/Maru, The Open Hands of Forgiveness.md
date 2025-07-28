@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dieties-and-pantheons/maru-the-open-hands-of-forgiveness/"}
+{"dg-publish":true,"permalink":"/dieties-and-pantheons/maru-the-open-hands-of-forgiveness/","created":"2025-05-27T16:47:43.302-04:00","updated":"2025-07-28T06:16:40.342-04:00"}
 ---
 
 

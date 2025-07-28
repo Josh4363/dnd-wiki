@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/colloquialisms-mannerisms-and-slurs/"}
+{"dg-publish":true,"permalink":"/contents/colloquialisms-mannerisms-and-slurs/","created":"2025-05-27T17:49:56.439-04:00","updated":"2025-07-28T06:16:11.863-04:00"}
 ---
 
 **Clankers**- Derogatory term for warforged.

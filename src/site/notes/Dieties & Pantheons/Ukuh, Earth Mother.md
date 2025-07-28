@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dieties-and-pantheons/ukuh-earth-mother/"}
+{"dg-publish":true,"permalink":"/dieties-and-pantheons/ukuh-earth-mother/","created":"2025-05-28T03:21:51.940-04:00","updated":"2025-07-28T06:17:02.618-04:00"}
 ---
 
 ![Pasted image 20250528155807.png](/img/user/Pics/Pasted%20image%2020250528155807.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/notable-npc-s/"}
+{"dg-publish":true,"permalink":"/contents/notable-npc-s/","created":"2025-05-28T20:12:43.838-04:00","updated":"2025-07-28T06:16:20.818-04:00"}
 ---
 
 **_Will be filled as sessions go on.

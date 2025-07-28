@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dieties-and-pantheons/zyzzic-giver-of-might/"}
+{"dg-publish":true,"permalink":"/dieties-and-pantheons/zyzzic-giver-of-might/","created":"2025-05-29T19:13:01.537-04:00","updated":"2025-07-28T06:16:57.420-04:00"}
 ---
 
 ![Pasted image 20250529191841.png](/img/user/Pics/Pasted%20image%2020250529191841.png)

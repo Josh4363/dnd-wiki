@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/laws-of-the-land/"}
+{"dg-publish":true,"permalink":"/contents/laws-of-the-land/","created":"2025-05-27T17:42:20.425-04:00","updated":"2025-07-28T06:15:24.421-04:00"}
 ---
 
 

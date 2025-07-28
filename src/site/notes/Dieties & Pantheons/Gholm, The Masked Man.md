@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dieties-and-pantheons/gholm-the-masked-man/"}
+{"dg-publish":true,"permalink":"/dieties-and-pantheons/gholm-the-masked-man/","created":"2025-05-29T19:28:08.626-04:00","updated":"2025-07-28T06:17:14.190-04:00"}
 ---
 
 ![Pasted image 20250529193600.png](/img/user/Pics/Pasted%20image%2020250529193600.png)

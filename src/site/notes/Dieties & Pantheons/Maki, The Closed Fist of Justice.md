@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dieties-and-pantheons/maki-the-closed-fist-of-justice/"}
+{"dg-publish":true,"permalink":"/dieties-and-pantheons/maki-the-closed-fist-of-justice/","created":"2025-05-27T15:44:00.435-04:00","updated":"2025-07-28T06:16:35.981-04:00"}
 ---
 
 ![Pasted image 20250527154614.png](/img/user/Pics/Pasted%20image%2020250527154614.png)

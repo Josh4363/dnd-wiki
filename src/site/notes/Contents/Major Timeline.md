@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/major-timeline/"}
+{"dg-publish":true,"permalink":"/contents/major-timeline/","created":"2025-05-26T21:55:58.567-04:00","updated":"2025-07-28T06:14:32.286-04:00"}
 ---
 
 

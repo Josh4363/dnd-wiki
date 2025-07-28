@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/table-rules-and-homebrew/"}
+{"dg-publish":true,"permalink":"/table-rules-and-homebrew/","created":"2025-06-06T22:39:41.932-04:00","updated":"2025-07-28T06:14:23.053-04:00"}
 ---
 
 # How to Play D&D Tools and How-To's

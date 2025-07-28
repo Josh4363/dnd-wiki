@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/the-kingdoms/"}
+{"dg-publish":true,"permalink":"/contents/the-kingdoms/","created":"2025-05-26T22:00:07.778-04:00","updated":"2025-07-28T06:14:59.436-04:00"}
 ---
 
 There are multiple Kingdoms that stretch throughout the lands.

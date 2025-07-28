@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dieties-and-pantheons/mort-the-burning-lord/"}
+{"dg-publish":true,"permalink":"/dieties-and-pantheons/mort-the-burning-lord/","created":"2025-05-31T01:30:35.113-04:00","updated":"2025-07-28T06:17:07.100-04:00"}
 ---
 
 ![Pasted image 20250531014709.png](/img/user/Pics/Pasted%20image%2020250531014709.png)

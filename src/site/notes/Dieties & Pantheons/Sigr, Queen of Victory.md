@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dieties-and-pantheons/sigr-queen-of-victory/"}
+{"dg-publish":true,"permalink":"/dieties-and-pantheons/sigr-queen-of-victory/","created":"2025-05-27T17:20:09.454-04:00","updated":"2025-07-28T06:16:45.849-04:00"}
 ---
 
 ![Pasted image 20250527172333.png](/img/user/Pics/Pasted%20image%2020250527172333.png)

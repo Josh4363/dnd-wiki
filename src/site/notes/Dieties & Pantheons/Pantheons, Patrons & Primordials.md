@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dieties-and-pantheons/pantheons-patrons-and-primordials/"}
+{"dg-publish":true,"permalink":"/dieties-and-pantheons/pantheons-patrons-and-primordials/","created":"2025-05-27T13:29:14.642-04:00","updated":"2025-07-28T06:15:49.138-04:00"}
 ---
 
 There are much to the divine that even with all records gathered and studied, that we do not know as mere mortals. What we do know is of the Great Pantheon of this Continent, 10? Greater Deities who are widely worshipped publicly and privately. Each of these 10 are guaranteed to have some level or worship in any of the major cities or hubs.  While they may have varying levels of worship, each one has their unique domains and strong  influence over this world.

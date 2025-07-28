@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/the-long-night-of-tears/"}
+{"dg-publish":true,"permalink":"/contents/the-long-night-of-tears/","created":"2025-07-07T19:46:31.860-04:00","updated":"2025-07-28T07:06:16.421-04:00"}
 ---
 
 ![Pasted image 20250707201550.png](/img/user/Pics/Pasted%20image%2020250707201550.png)
