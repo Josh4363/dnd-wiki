@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/laws-of-the-land/","created":"2025-05-27T17:42:20.425-04:00","updated":"2025-07-28T06:15:24.421-04:00"}
+{"dg-publish":true,"permalink":"/contents/laws-of-the-land/","created":"2025-05-27T17:42:20.425-04:00","updated":"2025-07-28T16:33:05.267-04:00"}
 ---
 
 
@@ -76,7 +76,7 @@ Each deity influences regional legal philosophy. These clauses are often invoked
 
 ---
 
-### 🌀 **Shoah’s Final Rite** _(Wind, Acceptance, Afterlife)_
+### 🌀 **Seong Sing's Final Rite** _(Wind, Acceptance, Afterlife)_
 
 **“All must pass, and none should pass alone.”**
 
