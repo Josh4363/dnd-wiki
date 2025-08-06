@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dieties-and-pantheons/zyzzic-giver-of-might/","created":"2025-05-29T19:13:01.537-04:00","updated":"2025-07-28T06:16:57.420-04:00"}
+{"dg-publish":true,"permalink":"/dieties-and-pantheons/zyzzic-giver-of-might/","created":"2025-05-29T19:13:01.537-04:00","updated":"2025-08-06T18:40:46.242-04:00"}
 ---
 
 ![Pasted image 20250529191841.png](/img/user/Pics/Pasted%20image%2020250529191841.png)
@@ -19,6 +19,3 @@ He **blesses effort** — not outcome. His followers revere sweat, calluses, and
 
 He’s often depicted holding a lightning bolt clenched in a bloody fist — a reminder that **power is earned, not given.**
 
-## Legendary Artifact 
-
-Bow of Might- Bow/scales of STR/Shoots Lightning bolts/Boosts con & Str

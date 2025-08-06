@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dieties-and-pantheons/gholm-the-masked-man/","created":"2025-05-29T19:28:08.626-04:00","updated":"2025-07-28T06:17:14.190-04:00"}
+{"dg-publish":true,"permalink":"/dieties-and-pantheons/gholm-the-masked-man/","created":"2025-05-29T19:28:08.626-04:00","updated":"2025-08-06T18:40:04.010-04:00"}
 ---
 
 ![Pasted image 20250529193600.png](/img/user/Pics/Pasted%20image%2020250529193600.png)
@@ -17,6 +17,3 @@ He stands at the edge of the world in eternal silence, face obscured by a skull-
 Gholm is **death’s curator**, not its cause. He catalogs endings. He guides no soul, but records every step. Scholars invoke him before forbidden study; assassins whisper his name after a clean kill.
 
 To speak falsely in a temple of Gholm is to tempt erasure — not death, but _forgetting._ Those who wear his mask do not speak again. His priests take vows of silence. His temples are underground archives and crypts. Whispering in his halls is taboo.
-
-## Legendary Artifact 
-

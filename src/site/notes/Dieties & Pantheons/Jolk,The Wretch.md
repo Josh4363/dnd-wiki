@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dieties-and-pantheons/jolk-the-wretch/","created":"2025-05-31T01:22:45.815-04:00","updated":"2025-07-28T06:17:17.338-04:00"}
+{"dg-publish":true,"permalink":"/dieties-and-pantheons/jolk-the-wretch/","created":"2025-05-31T01:22:45.815-04:00","updated":"2025-08-06T18:40:10.080-04:00"}
 ---
 
 ![Pasted image 20250531012251.png](/img/user/Pics/Pasted%20image%2020250531012251.png)
@@ -18,6 +18,3 @@ Chaos is divine. Jolk teaches that luck is fickle and the world is a stage. He f
 
 He answers when it’s funny. His symbol, a coin mid-flip, adorns cards, masks, and tattoos of rogues and wanderers. It is said when you see a beggar smile _just before a storm_, Jolk is nearby.
 
-## Legendary Artifact 
-
-Addiction- A coin flip-decides if you crit hit or crit miss, on miss face major repercussions

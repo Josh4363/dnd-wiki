@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dieties-and-pantheons/soeng-sing-the-sky-serpent/","created":"2025-05-27T17:29:02.297-04:00","updated":"2025-07-28T06:16:50.319-04:00"}
+{"dg-publish":true,"permalink":"/dieties-and-pantheons/soeng-sing-the-sky-serpent/","created":"2025-05-27T17:29:02.297-04:00","updated":"2025-08-06T18:40:36.190-04:00"}
 ---
 
  
@@ -18,6 +18,3 @@ Serene and vast, Soeng Sing coils endlessly across the skies — an ancient, fea
 In silence, he **guides souls into the next life.** Sailors whisper to her winds, monks tattoo his symbol along their spines, and grieving families burn offerings hoping he’ll coil gently around their lost.
 
 When he is seen in dreams, it is said peace follows — whether in death or decision. His temples are open-roofed sanctuaries built at high altitudes. Pilgrims release ashes, lanterns, or letters into the wind to honor him.
-## Legendary Artifact 
-
-Typhoon- Legendary Staff/ wind related spells/ conjure sky dragon/

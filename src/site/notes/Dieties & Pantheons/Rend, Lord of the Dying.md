@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dieties-and-pantheons/rend-lord-of-the-dying/","created":"2025-05-29T19:20:41.822-04:00","updated":"2025-07-28T06:17:10.931-04:00"}
+{"dg-publish":true,"permalink":"/dieties-and-pantheons/rend-lord-of-the-dying/","created":"2025-05-29T19:20:41.822-04:00","updated":"2025-08-06T18:40:25.742-04:00"}
 ---
 
 ![Pasted image 20250529192532.png](/img/user/Pics/Pasted%20image%2020250529192532.png)
@@ -18,6 +18,3 @@ He is not evil — but he is terrifying. He knows the frailty of flesh, the cost
 
 In the time of plague, he is both god and reaper. But even in sickness, he brings strange mercy — for to suffer is to feel deeply, and to be healed is to change forever.
 
-## Legendary Artifact 
-
-Malady - Dual Daggers

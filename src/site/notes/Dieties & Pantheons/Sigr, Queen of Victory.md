@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dieties-and-pantheons/sigr-queen-of-victory/","created":"2025-05-27T17:20:09.454-04:00","updated":"2025-07-28T06:16:45.849-04:00"}
+{"dg-publish":true,"permalink":"/dieties-and-pantheons/sigr-queen-of-victory/","created":"2025-05-27T17:20:09.454-04:00","updated":"2025-08-06T18:40:31.013-04:00"}
 ---
 
 ![Pasted image 20250527172333.png](/img/user/Pics/Pasted%20image%2020250527172333.png)
@@ -17,6 +17,3 @@ Sigr wears victory like a crown — tall, proud, and cold as the snows of her ho
 She rewards not just might, but cunning — those who win, no matter the means. Nobles offer tributes for political victories; generals burn banners in her name before a campaign.
 
 Worship of Sigr is common among the Kuzanites and the frost-born of the **Territories of Eternal Snow**, where survival _is_ victory. Her temples often double as treasuries and coliseums.
-## Legendary Artifact 
-
-Conquest-Legendary Crown
