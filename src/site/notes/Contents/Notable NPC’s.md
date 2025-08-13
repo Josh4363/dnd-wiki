@@ -1,10 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/contents/notable-npc-s/","created":"2025-05-28T20:12:43.838-04:00","updated":"2025-07-28T06:16:20.818-04:00"}
+{"dg-publish":true,"permalink":"/contents/notable-npc-s/","created":"2025-05-28T20:12:43.838-04:00","updated":"2025-08-13T17:26:19.319-04:00"}
 ---
 
 **_Will be filled as sessions go on.
 
 **Carver, The Guild Contact.**- Carver is the Guild Keeper for Genis. The presence of the Genis' Adventurers Guild is in a rather sorry state as there is a lack of skilled adventurers living in there. Carver is a little too old to be attending to this small but growing village. He was born here and wants to see it safe as he grows older.
+
+**Old Man Limeric-** Local lizardman fisherman. Nice old man, owns the fish shack east of the village. Valuable guild contact with plenty of fish to go around. Completed a contract with him where you were supposed to house sit for him while he was away fishing.
+
+**Scooby** -Marxist wolf. Found with a collar around him that seemingly made him hostile towards the party. Was accompanied by Goblins. Currently staying with Limeric. Views history through the lens of class struggle.
+
+**Father Sandoval** - The town healer and a Priest of Rend. Human, and around 50 years of age or so. Has a bitter relationship with Farmer Fred. Bald.
+
+**Farmer Fred** - RACIST AND IN JAIL.
+
+**Will, The Smith**- Local smith. From some place called West Philadelphia. Can make weapon request but very pricey.
+
+**Sally Three Smokes** - Clothier shop. Is a halfling woman. Farmer Fred owed her money.
+
+**Stitch** - Orc General store owner. Not much known yet.
 
 
 ### Historical Figures
