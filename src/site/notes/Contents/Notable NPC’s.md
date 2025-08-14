@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/contents/notable-npc-s/","created":"2025-05-28T20:12:43.838-04:00","updated":"2025-08-13T17:26:19.319-04:00"}
+{"dg-publish":true,"permalink":"/contents/notable-npc-s/","created":"2025-05-28T20:12:43.838-04:00","updated":"2025-08-14T18:55:15.158-04:00"}
 ---
 
-**_Will be filled as sessions go on.
+**Will be filled as sessions go on.
 
 **Carver, The Guild Contact.**- Carver is the Guild Keeper for Genis. The presence of the Genis' Adventurers Guild is in a rather sorry state as there is a lack of skilled adventurers living in there. Carver is a little too old to be attending to this small but growing village. He was born here and wants to see it safe as he grows older.
 
