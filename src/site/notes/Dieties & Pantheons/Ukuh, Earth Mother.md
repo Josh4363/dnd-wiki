@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dieties-and-pantheons/ukuh-earth-mother/","created":"2025-05-28T03:21:51.940-04:00","updated":"2025-07-28T06:17:02.618-04:00"}
+{"dg-publish":true,"permalink":"/dieties-and-pantheons/ukuh-earth-mother/","created":"2025-05-28T03:21:51.940-04:00","updated":"2025-08-25T00:17:16.204-04:00"}
 ---
 
 ![Pasted image 20250528155807.png](/img/user/Pics/Pasted%20image%2020250528155807.png)
@@ -18,7 +18,4 @@ Her temples are paths. Her sermons are the long silences of walking. She is the 
 
 When a smith reforges shattered steel, when a thief seeks honest work, when a wanderer finds a village — **Ukuh smiles**.
 
-## Legendary Artifact 
 
-Struggler- a warhammer/1 use to parry an instance of damagew/
-![Pasted image 20250601022850.jpg](/img/user/Pics/Pasted%20image%2020250601022850.jpg)

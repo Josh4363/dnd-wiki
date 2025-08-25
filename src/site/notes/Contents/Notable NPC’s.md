@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/notable-npc-s/","created":"2025-05-28T20:12:43.838-04:00","updated":"2025-08-14T18:55:15.158-04:00"}
+{"dg-publish":true,"permalink":"/contents/notable-npc-s/","created":"2025-05-28T20:12:43.838-04:00","updated":"2025-08-25T00:17:01.689-04:00"}
 ---
 
 **Will be filled as sessions go on.
@@ -10,11 +10,11 @@
 
 **Scooby** -Marxist wolf. Found with a collar around him that seemingly made him hostile towards the party. Was accompanied by Goblins. Currently staying with Limeric. Views history through the lens of class struggle.
 
-**Father Sandoval** - The town healer and a Priest of Rend. Human, and around 50 years of age or so. Has a bitter relationship with Farmer Fred. Bald.
+**Father Sandoval** - The town healer and a Priest of Rend. Human, and around 50 years of age or so. Has a bitter relationship with Farmer Fred. Found out that Father Sandoval was born into the Genis cattle camp during the Long Night. Has issues with the vampires. Bald.
 
 **Farmer Fred** - RACIST AND IN JAIL.
 
-**Will, The Smith**- Local smith. From some place called West Philadelphia. Can make weapon request but very pricey.
+**Will, The Smith**- Local smith. From some place called West Philadelphia. Can make weapon requests but very pricey.
 
 **Sally Three Smokes** - Clothier shop. Is a halfling woman. Farmer Fred owed her money.
 
