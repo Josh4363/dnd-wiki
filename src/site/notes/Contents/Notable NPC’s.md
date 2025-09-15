@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/notable-npc-s/","created":"2025-05-28T20:12:43.838-04:00","updated":"2025-08-25T00:17:01.689-04:00"}
+{"dg-publish":true,"permalink":"/contents/notable-npc-s/","created":"2025-05-28T20:12:43.838-04:00","updated":"2025-09-15T13:30:31.138-04:00"}
 ---
 
 **Will be filled as sessions go on.
@@ -12,7 +12,7 @@
 
 **Father Sandoval** - The town healer and a Priest of Rend. Human, and around 50 years of age or so. Has a bitter relationship with Farmer Fred. Found out that Father Sandoval was born into the Genis cattle camp during the Long Night. Has issues with the vampires. Bald.
 
-**Farmer Fred** - RACIST AND IN JAIL.
+**Farmer Fred** - DEAD AND NO SOUL LOL.
 
 **Will, The Smith**- Local smith. From some place called West Philadelphia. Can make weapon requests but very pricey.
 
