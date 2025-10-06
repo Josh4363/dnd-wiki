@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/table-rules-and-homebrew/","created":"2025-06-06T22:39:41.932-04:00","updated":"2025-07-28T16:07:28.527-04:00"}
+{"dg-publish":true,"permalink":"/table-rules-and-homebrew/","created":"2025-06-06T22:39:41.932-04:00","updated":"2025-09-29T17:04:05.043-04:00"}
 ---
 
 # How to Play D&D Tools and How-To's
@@ -64,3 +64,36 @@ I get it, you only started playing D&D because of Baldur's Gate. There are some 
 [[Table of Contents\|Table of Contents]]
 
 
+# Exhaustion
+![Pasted image 20250929163952.png](/img/user/Pics/Pasted%20image%2020250929163952.png)
+
+# Perilous Wilds
+
+_“Beyond the walls, even life itself is thinner.”_
+
+When adventurers leave the safety of civilization, the rules of survival change. The wilds are harsher, crueler, and every brush with death leaves its mark.
+
+### What You Should Know
+
+- **Coming Back is Hard.** If you fall to 0 HP and are healed, you rise disoriented. You cannot take your **main action** until your next turn. You may still move and take a bonus action.
+    
+- **Death Clings.** Each failed death save leaves a mark: you gain a level of **exhaustion**.
+    
+- **Stabilize to Spare.** If someone stabilizes you before healing, you avoid that exhaustion.
+    
+- **No Easy Recovery.** Exhaustion gained this way lingers until you return to safety — a temple, healer’s ward, or the touch of powerful magic.
+    
+
+---
+
+# Dread Encounters
+
+_“A heavy dread settles over the battlefield…”_
+
+In certain battles, fate itself twists cruel. Against foes of legend, in cursed places, or when doom feels certain, you are caught in a **Dread Encounter**.
+
+### What You Should Know
+
+- All rules of the **Perilous Wilds** apply.
+    
+- **Critical Misfortune.** In a Dread Encounter, a natural **1** on a death save leaves more than failure — it leaves scars, curses, or lingering fear.

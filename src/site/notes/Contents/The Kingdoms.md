@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/the-kingdoms/","created":"2025-05-26T22:00:07.778-04:00","updated":"2025-07-28T06:14:59.436-04:00"}
+{"dg-publish":true,"permalink":"/contents/the-kingdoms/","created":"2025-05-26T22:00:07.778-04:00","updated":"2025-09-28T02:07:44.547-04:00"}
 ---
 
 There are multiple Kingdoms that stretch throughout the lands.
@@ -10,7 +10,7 @@ There are multiple Kingdoms that stretch throughout the lands.
 
 	Population: 50,000+
 	Main Exports: Lumber,Livestock,Grain
-	Government type: Council of demorcratically elected officials.
+	Government type: Council of 12
 	Transport Routes:Paved Roads, Boat through the river.
 	Waynode Connections:Genis, Voyager, Polaris, Working on Kuzan
 	Religion:The 10 are worshipped openly, bias towards Zyzzic and Maru
@@ -46,6 +46,23 @@ Despite its rustic surroundings, Nuva Prima offers a balanced lifestyle for both
 ---
 
 **Nuva Prima** is widely considered a rising power in the current era—stable, prosperous, and full of opportunity for settlers, merchants, and adventurers alike.
+
+Council of 12:
+3 Military Branches
+	Brigadier General of the Nuva Prima Army
+	Lord of the City Guard
+	ArkNight Bishop
+Guilds
+	Merchant Guild President
+	The Architect.
+	Adventurers Guild Rep
+	Cleric Pope
+	Farmer's Guild
+	College Dean
+	President McDougan
+Elected Officials
+	First person in election
+	Runner-up
 
 ## Voyager
 	Population: 150,000+

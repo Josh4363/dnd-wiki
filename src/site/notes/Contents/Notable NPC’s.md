@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/notable-npc-s/","created":"2025-05-28T20:12:43.838-04:00","updated":"2025-09-15T13:30:31.138-04:00"}
+{"dg-publish":true,"permalink":"/contents/notable-npc-s/","created":"2025-05-28T20:12:43.838-04:00","updated":"2025-10-06T17:19:37.255-04:00"}
 ---
 
 **Will be filled as sessions go on.
@@ -8,17 +8,23 @@
 
 **Old Man Limeric-** Local lizardman fisherman. Nice old man, owns the fish shack east of the village. Valuable guild contact with plenty of fish to go around. Completed a contract with him where you were supposed to house sit for him while he was away fishing.
 
+**Buddy** - The name of the staff of serpents.
+
 **Scooby** -Marxist wolf. Found with a collar around him that seemingly made him hostile towards the party. Was accompanied by Goblins. Currently staying with Limeric. Views history through the lens of class struggle.
 
 **Father Sandoval** - The town healer and a Priest of Rend. Human, and around 50 years of age or so. Has a bitter relationship with Farmer Fred. Found out that Father Sandoval was born into the Genis cattle camp during the Long Night. Has issues with the vampires. Bald.
 
-**Farmer Fred** - DEAD AND NO SOUL LOL.
+**Farmer Fred** - DEAD AND NO SOUL LOL. (Racist?)
 
-**Will, The Smith**- Local smith. From some place called West Philadelphia. Can make weapon requests but very pricey.
+**Will, The Smith**- Local smith. From some place called West Philadelphia. Can make weapon requests but very pricey. Has a ~~bald~~ wife.
 
-**Sally Three Smokes** - Clothier shop. Is a halfling woman. Farmer Fred owed her money.
+**Sally Three Smokes** - Clothier shop. Is a halfling woman. Farmer Fred owed her money. Part of an organization *La Famillia*. They have an interest in the party and will reach out.
 
 **Stitch** - Orc General store owner. Not much known yet.
+
+**Lolando -** A voice that Goldship has heard in his head after the Mak'Marrah. Was once the patron of Farmer Fred, but has since made some level of a deal with Goldship, promising power and sparing Goldship in the Mak'marrah in exchange for some level of control over his body.
+
+**Guy Fairy** - Carver and the guild's cook.
 
 
 ### Historical Figures
