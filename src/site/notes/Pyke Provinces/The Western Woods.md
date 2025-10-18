@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/pyke-provinces/the-western-woods/","created":"2025-05-27T02:52:04.323-04:00","updated":"2025-07-28T16:05:43.910-04:00"}
+{"dg-publish":true,"permalink":"/pyke-provinces/the-western-woods/","created":"2025-05-27T02:52:04.323-04:00","updated":"2025-10-07T11:24:33.682-04:00"}
 ---
 
-![Pasted image 20250527025833.png](/img/user/Pics/Pasted%20image%2020250527025833.png)
+Gia![Pasted image 20250527025833.png](/img/user/Pics/Pasted%20image%2020250527025833.png)
 The largest out of all the provinces, as the name suggests it takes up most of the western half of the continent. But, contrary to the name the area is not just a big forest-like biome. 
 
 While it does have a lot of trees and arborous areas, places like the the Land of Ample Water offers an amazing and unique experience. Whether it's the creatures, the magic in the land, for reasons unbeknownst to the general public, the lands offer an area where aquatic creatures flow freely and swim to and from the sea and sky. A truly beautiful and, depending who is swimming around, dangerous experience. 
@@ -34,6 +34,7 @@ There are also an abundance of lakes located across the province, the biggest be
 	- Dire Wolves
 	- Giant Wolves
 - Bears
+- Owlbears
 - Birds
 - Fish
 - Rays
