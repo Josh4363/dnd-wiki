@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/notable-npc-s/","created":"2025-05-28T20:12:43.838-04:00","updated":"2025-10-15T23:05:04.514-04:00"}
+{"dg-publish":true,"permalink":"/contents/notable-npc-s/","created":"2025-05-28T20:12:43.838-04:00","updated":"2025-12-09T18:08:45.534-05:00"}
 ---
 
 
@@ -27,11 +27,16 @@
 
 **Guy Fairy** - Carver and the guild's cook. Hates the Bird.
 
-**Lord Commander Fivel** - A living legend in some eyes. Former Ark Knight. Wields a legendary spear known as ==**Gungnir**==. She left the Ark Knights for her own reasons, caught Razmith. In charge of the City Guard in Genis, currently on her way with Carver to Nuva Prima to aid in the threat of a cult. Is 7'6 *Dommy Mommy*
+**Lord Commander Ingrid Fivel** - A living legend in some eyes. Former Ark Knight. Wields a legendary spear known as ==**Gungnir**==. She left the Ark Knights for her own reasons, caught Razmith. In charge of the City Guard in Genis, currently on her way with Carver to Nuva Prima to aid in the threat of a cult. Is 7'6 *Dommy Mommy*
 
-**Razmith** - A kuzanite prisoner wanted on the grounds of an assassination that took place in Kuzan territory. Was found in [[Pyke Provinces/The Western Woods\|The Western Woods]] under the protections of some pirate outlaws. Was displeased with the way Kuzan is being governed. "Did it for his daughter." Is pee shy.
+**Razmith** - A kuzanite prisoner wanted on the grounds of an assassination that took place in Kuzan territory. Was found in [[Pyke Provinces/The Western Woods\|The Western Woods]] under the protections of some pirate outlaws. Was displeased with the way Kuzan is being governed. "Did it for his daughter." Is pee shy. 
+	Has agreed to a deal with the party that allowed them to aid Razmith. 
+	Tattooed a rune onto Razmith that allowed him to be found in Capatain Dmitry.
+	The party made the drop and exchange with the Kuzanites. He then proceeded to gift the party a blue gem baring the sigil of [[Dieties & Pantheons/Sigr, Queen of Victory\| the queen of victory herself]].  Thinks the party as kind and good people.
 
-**Rahm** - A prisoner that is to be received in the exchange. Wanted for his connection with a cult related to [[Dieties & Pantheons/Mort, The Burning Lord\|The Burning Lord]] extremists.
+**Captain Reznoff Dmitry** - Standing at a hulking size, with grand muscles and pale skin. He is a powerful outlaw baring a *LEGENDARY ARTIFACT* of unknown make. Tasked with the protection of Razmith, Lord Commander Fivel broke in a took him back while he was away. One of 7 outlaws in [[Pyke Provinces/The Western Woods\|The Western Woods]] rated with a *"Flee on Sight"* order by the Ark Knights.
+
+**Rahm** - Purple skin and red eyes. Rahm is a tiefling man on average height (around 5'8). A prisoner that is to be received in the exchange. Wanted for his connection with a cult related to [[Dieties & Pantheons/Mort, The Burning Lord\|The Burning Lord]] extremists. 
 
 
 ### Historical Figures
